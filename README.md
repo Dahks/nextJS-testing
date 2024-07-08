@@ -1,2 +1,2 @@
 # nextJS-testing
-Testing 
+Testing nextJS PDf capabilities.
